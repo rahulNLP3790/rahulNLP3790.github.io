@@ -17,3 +17,8 @@ body {
 .pagination {
   margin-bottom: 15px;
 }
+
+.fixed-img-size {
+	width: 200px;
+    height: 120px;
+}
